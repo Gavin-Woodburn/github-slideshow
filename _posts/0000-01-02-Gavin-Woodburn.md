@@ -2,5 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+<(")
+what do nuclear scientist penguins eat? FISSION CHIPS
+<('>')>
 Use the left arrow to go back!
